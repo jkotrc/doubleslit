@@ -51,7 +51,7 @@ data = initialwf(gridX,gridY)
 t=0
 dt=0.0001	#step size
 n=0
-N=500		#500 iterations
+N=500		#500 iterations 
 frames=[]
 while (n<N):
 
